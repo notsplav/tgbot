@@ -1,1 +1,1 @@
-qpgfjmfdl
+ Telegram bot that sends a video downloaded via a link from TikTok or Instagram.
